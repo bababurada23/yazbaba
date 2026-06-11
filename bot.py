@@ -7,7 +7,7 @@ from flask import Flask
 
 # --- AYARLAR ---
 TELEGRAM_BOT_TOKEN = "8722947013:AAHf4aIVmHUV1UHMrXVoVytTIq7y8I28hT0"
-TELEGRAM_CHAT_ID = "930050688"
+TELEGRAM_CHAT_ID = "-5071774844"
 FORUM_URL = "https://forum.donanimarsivi.com/forumlar/Sicakfirsatlar/"
 KONTROL_SURESI = 180 
 HAFIZA_DOSYASI = "gonderilenler.txt"
